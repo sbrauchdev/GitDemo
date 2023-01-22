@@ -1,6 +1,8 @@
 # GitDemo
 This is a Sample Repository/Sample for the Git course
 
+## GUIs
+This Change is made bei VSCode
 ## how to work with git
 1. Git Checkout main
 2. git pull
